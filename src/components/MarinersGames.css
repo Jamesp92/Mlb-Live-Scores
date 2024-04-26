@@ -1,0 +1,13 @@
+@keyframes scrollHorizontal {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+.scrolling-wrapper {
+  display: flex;
+  animation: scrollHorizontal 60s linear infinite; /* Increased duration */
+}
