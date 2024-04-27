@@ -35,4 +35,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 
-PJ Perry - [PJPerry28@example.com](mailto:PJPerry28@gmail.com)
+PJ Perry - [PJPerry28@gmail.com](mailto:PJPerry28@gmail.com)
