@@ -26,8 +26,8 @@ dist-ssr
 *.sln
 *.sw?
 
-# Ignore service account file
+# secrets
 serviceAccountKey.json
-
 test.cjs
+functions/index.js
 
